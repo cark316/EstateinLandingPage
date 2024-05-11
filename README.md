@@ -1,6 +1,6 @@
 Design by Produce UI, link to it on figma:
 
-https://www.figma.com/community/file/1314076616839640516/real-estate-business-website-ui-template-dark-theme-produce-ui?searchSessionId=lw1r5x3c-abw6k5war9m
+[https://www.figma.com/community/file/1314076616839640516/real-estate-business-website-ui-template-dark-theme-produce-ui?searchSessionId=lw1r5x3c-abw6k5war9m](https://www.figma.com/community/file/1314076616839640516)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
